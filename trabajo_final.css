@@ -1,0 +1,31 @@
+html{
+    font-size: 20px;
+
+}
+input[type=text]{
+    margin: 1px;
+    height: 3rem;
+    width: 3rem;
+    border: 1px #ccc solid;
+    font-size: 2rem;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.btn{
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+    vertical-align: middle;
+    text-align: center;
+}
+main{
+    min-height: 10rem;
+}
+footer{
+    margin-top: 1rem;
+    bottom: 0%;
+    font-size: 0.7rem;
+    background-color: blueviolet;
+    color:white;
+}
